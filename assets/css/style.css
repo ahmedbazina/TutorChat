@@ -1,13 +1,4 @@
 /*-----------------------------------------------------------------------------------
-
-    Template Name: Zeedapp
-    Template URI: 
-    Description: Zeedapp || App Landing Html Template
-    Author: Rashadul Islam
-    Author URI: http://rashadulislam.com/
-    Version: 1.0
-
------------------------------------------------------------------------------------
     
     CSS INDEX
     ===================
@@ -247,7 +238,7 @@ textarea {
 }
 
 .slicknav_nav {
-    background: #13c5de;
+    background: transparent;
     margin: 10px;
     padding: 6px 0px;
 }
